@@ -21,7 +21,7 @@ if 1+1=2:
     print die
     print 3 is crying
 else:
-    print Tr000op is P of US
+   
     print crazy mf
     over
 1. lsit
